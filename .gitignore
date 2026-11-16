@@ -1,0 +1,19 @@
+# Python and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Local records, generated reports and failed-write temporary files
+data/
+exports/
+*.tmp.xlsx
+~$*.xlsx
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
